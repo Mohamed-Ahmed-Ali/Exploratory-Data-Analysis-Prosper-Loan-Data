@@ -10,7 +10,7 @@ This project is part of Udacity's Nanodegree Program for Data Analysts. I conduc
 
 ### What is the structure of your dataset?
 
-The dataset has 113,937 loans with 81 variables on each loan. I will be interested in a subset of those variables. The dataset contains 84853 loans with 28 features including  ListingCreationDate, LoanOriginalAmount, LoanStatus, ListingCategory (numeric), BorrowerState, BorrowerAPR, BorrowerRate,StatedMonthlyIncome, ProsperRating (Alpha), ProsperScore, LoanMonthsSinceOrigination, Occupation, Term, EmploymentStatus , TotalInquiries, DebtToIncomeRatio, MonthlyLoanPayment , TotalTrades, Investors, IsBorrowerHomeowner, CreditScoreRangeLower, AvailableBankcardCredit, IncomeRange and others. Variables are loan information and borrower information.
+The dataset has 113,937 loans with 81 variables on each loan. I will be interested in a subset of those variables. The dataset contains 84853 loans with 28 features including  ListingCreationDate, LoanOriginalAmount, LoanStatus, ListingCategory (numeric), BorrowerState, BorrowerAPR, BorrowerRate, StatedMonthlyIncome, ProsperRating (Alpha), ProsperScore, LoanMonthsSinceOrigination, Occupation, Term, EmploymentStatus , TotalInquiries, DebtToIncomeRatio, MonthlyLoanPayment, TotalTrades, Investors, IsBorrowerHomeowner, CreditScoreRangeLower, AvailableBankcardCredit, IncomeRange and others. Variables are loan information and borrower information.
 
 
 ### What is/are the main feature(s) of interest in your dataset?
